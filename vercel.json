@@ -1,0 +1,1 @@
+{ "rewrites": [ { "source": "/(.*)", "destination": "http://au-bne01.altare.global:25353/$1" } ] }
